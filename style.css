@@ -10,7 +10,7 @@ font-family: 'Saira Condensed', sans-serif; */
 }
 
 body{
-    --font_Size_H2:25px;
+    --font_Size_H2:26px;
     --font_color_body:  hsl(0, 0%, 75%);  
     --font_color_link: hsl(126, 59%, 40%);
     --container_border: darkblue;
